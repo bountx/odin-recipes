@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    font-family: 'Arial Black', 'Arial Bold', sans-serif;
+    text-transform: uppercase;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
